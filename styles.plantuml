@@ -1,6 +1,6 @@
 @startuml
 
-!define COLOR_DEFAULT_BACKGROUND #92C4DD
+!define COLOR_DEFAULT_BACKGROUND #5C99D6
 !define COLOR_DEFAULT_TEXT Black
 !define COLOR_ITP_DARK_BLUE #211551
 !define COLOR_ITP_YELLOW #FFCD00
@@ -18,7 +18,7 @@ skinparam defaultFontName FONT_FIRA_MONO
 skinparam defaultFontSize 14
 skinParam defaultFontStyle plain
 
-skinparam dpi 90
+skinparam dpi 200
 
 'Controls how lines are drawn in PlantUML
 'values: otho, polyline, splines (default)

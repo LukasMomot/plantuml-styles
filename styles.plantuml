@@ -227,6 +227,6 @@ skinparam usecase {
   BorderColor COLOR_ITP_DARK_BLUE
 }
 
-
+skinparam SequenceBoxBorderColor COLOR_ITP_DARK_BLUE
 
 @enduml
